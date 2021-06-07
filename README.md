@@ -13,3 +13,14 @@ Simple Java Swing application showing how to use basic components, third party l
 
 ## Credit
 Happy Coding! :)
+
+## Screenshot
+
+### Login
+<img src="./src/screenshots/login.png" style="width:400px;height:300px;">
+
+### Overview
+<img src="./src/screenshots/main.png" style="width:1000px;height:900px;">
+
+### Details Loaded
+<img src="./src/screenshots/load.png" style="width:1000px;height:900px;">
