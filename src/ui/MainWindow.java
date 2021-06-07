@@ -626,7 +626,7 @@ public class MainWindow extends javax.swing.JFrame {
             JOptionPane.showMessageDialog(null, "Please provide Phone number.");
             return false;
         } else if (studentPicture == null) {
-            JOptionPane.showMessageDialog(null, "Please UPLOAD student's profile image.");
+            JOptionPane.showMessageDialog(null, "Please UPLOAD student's profile image.\n MAX: 1 MB size");
             return false;
         } else {
             return true;
